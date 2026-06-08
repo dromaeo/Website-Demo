@@ -8,6 +8,9 @@ Find me on [github](https://github.com/dromaeo/)
 2.  [test](page1.html)
 3.  [<img src="a.png">]()
 
+
+<!DOCTYPE html>
+<html lang = "en">
 <!-- The sidebar -->
 <div class="sidebar">
   <a class="active" href="#home">Home</a>
