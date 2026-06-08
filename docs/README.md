@@ -5,7 +5,7 @@ Github is [here](https://github.com/dromaeo/)
 # Content
 
 1. [hi](README.md)
-2.  [test](page1.md)
+2.  [test](page1.html)
 3.  [<img src="a.png">]()
 
 <div class="w3-sidebar w3-bar-block" style="width:25%">
