@@ -10,18 +10,18 @@
     <tr>
       <td>
         <ul>
-          <li>your@email.com</li>
-          <li><a href="https://www.linkedin.com">LinkedIn</a></li>
+          <li>kai.paleothero@gmail.com</li>
+          <li><a href="">Researchgate</a></li>
           <li><a href="https://github.com">GitHub</a></li>
           <li>. . .</li>
         </ul>
       </td>
     </tr>
-    <tr><td><b>Showcase</b></td></tr>
+    <tr><td><b>Skillset</b></td></tr>
     <tr>
       <td width="50%">
         <ul>
-          <li><a href="./Pages/education.md">Education</a></li>
+          <li><a href="./Pages/education.md">Skillset</a></li>
           <li><a href="./Pages/experience.md">Experience</a></li>
           <li><a href="./Pages/projects.md">Projects</a></li>
           <li><a href="./Pages/qualifications.md">Skills & Qualifications</a></li>
@@ -30,5 +30,25 @@
         </ul>
       </td>
     </tr>
+        <tr><td><b>Education</b></td></tr>
+    <tr>
+      <td width="50%">
+        <ul>
+          <li><a href="./Pages/education.md">Skillset</a></li>
+          <li>. . .</li>
+        </ul>
+      </td>
+    </tr>
+        <tr><td><b>Publications</b></td></tr>
+    <tr>
+      <td width="50%">
+        <ul>
+          <li><a href="./Pages/education.md">Skillset</a></li>
+
+        </ul>
+      </td>
+    </tr>
+
+
   </tbody>
 </table>
