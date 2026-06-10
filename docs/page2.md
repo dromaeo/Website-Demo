@@ -44,11 +44,8 @@
       <td width="50%">
         <ul>
           <li><a href="./Pages/education.md">Skillset</a></li>
-
         </ul>
       </td>
     </tr>
-
-
   </tbody>
 </table>
