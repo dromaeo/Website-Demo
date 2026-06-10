@@ -12,5 +12,5 @@ A lot of things can be added.
 2.  [Portfolio](page2.md)
 3.  [Pdf](Pdf.pdf)
 4.  [Page](page3.md)
-5.  [Fancy](index.html)
+5.  [Fancy](page4.html)
 6.  [<img src="a.png">]()
