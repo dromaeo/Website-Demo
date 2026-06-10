@@ -38,6 +38,7 @@
           <li>. . .</li>
         </ul>
       </td>
+      <td></td>
     </tr>
         <tr><td><b>Publications</b></td></tr>
     <tr>
@@ -46,6 +47,7 @@
           <li><a href="./Pages/education.md">Skillset</a></li>
         </ul>
       </td>
+      <td></td>
     </tr>
   </tbody>
 </table>
