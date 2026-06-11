@@ -10,4 +10,4 @@
 5.  [<img src="a.png">]()
 
 
-[text](.\image1.png)
+[text](./image1.png)
