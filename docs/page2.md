@@ -39,16 +39,14 @@
     <tr>
       <td width="50%" colspan="2">
         <ul>
-          <li>BIODIVERSITA ED EVOLUZIONE - Laurea magistrale 2022 - 2025
-Universita di Bologna, Italia 
+          <li><b>BIODIVERSITA ED EVOLUZIONE - Laurea magistrale 2022 - 2025 </b> - Universita di Bologna, Italia 
             
-· 110/110 cum laude: Tesi: ”Anatomical description and phylogenetic affinities of an enigmatic Crocodylomorph dentary from the Lower Cretaceous of Teruel, Spain” (Supervisor: Federico Fanti, Co-supervisor: Miguel Moreno-Azanza).
+· 110/110 cum laude - Tesi: ”Anatomical description and phylogenetic affinities of an enigmatic Crocodylomorph dentary from the Lower Cretaceous of Teruel, Spain” (Supervisor: Federico Fanti, Co-supervisor: Miguel Moreno-Azanza).
 
 · Erasmus+ traineeship in Zaragoza (Spagna) in digital Vertebrate Paleontology.
-</li><li>SCIENZE AMBIENTALI E NATURALI - Laurea triennale 2019 - 2022
-Universita di Genova, Italia
+</li><li><b>SCIENZE AMBIENTALI E NATURALI - Laurea triennale 2019 - 2022</b> - Universita di Genova, Italia
   
-  · 110/110 cum laude: Tesi: ”Analisi filogenetica dei recettori GABA nei deuterostomi” (Supervisor: Simona Candiani, Co-supervisor: Matteo Bozzo).
+  · 110/110 cum laude - Tesi: ”Analisi filogenetica dei recettori GABA nei deuterostomi” (Supervisor: Simona Candiani, Co-supervisor: Matteo Bozzo).
 </li>
         </ul>
       </td>
