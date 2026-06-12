@@ -9,7 +9,7 @@
     </tr>
     <tr>
       <td>
-        Kai, paleontologo e biologo evoluzionista, persona dalle mille passioni. Nel tempo libero creo videogiochi, suono la batteria, e faccio illustrazioni e fumetti preistorici. 
+        Kai, paleontologo e biologo evoluzionista, persona dalle mille passioni. Nel tempo libero creo videogiochi, suono la batteria, e faccio fumetti e illustrazioni preistoriche. 
       </td>
     </tr>
     <tr>
