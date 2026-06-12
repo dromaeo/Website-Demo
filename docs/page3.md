@@ -1,4 +1,4 @@
-# Visual
+# Documentation example
 
 # Content
 
@@ -14,7 +14,7 @@
 
 
 # Web version
-Il software EFFORTS fornisce un sistema per la previsione di piena in tempo reale. La versione web permette un'accesso immediato ai dati rilevati sul territorio.
+Il software fornisce un sistema per la previsione di piena in tempo reale. La versione web permette un'accesso immediato ai dati rilevati sul territorio.
 
 # 1. Accesso
 Inserire i propri dati utente (email e password). In caso di problemi, scrivere a 
