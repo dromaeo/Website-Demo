@@ -22,21 +22,22 @@
         </ul>
       </td>
     </tr>
-        <tr><td><b>Pubblicazioni</b></td>
-        </tr>
+    <tr>
+          <td colspan="2"><b>Pubblicazioni</b></td>
+    </tr>
     <tr>
       <td width="50%" colspan="2">
         <ul>
-          <li> A. Buccella, E. Puertolas-Pascual, F. Fanti, M. Moreno-Azanza, ”Whose child is this? Juvenile features on an isolated crocodylomorph dentary from the Early Cretaceous of Galve, Spain” in Georgalis G. L., Sulej T., Belvedere M. Sanchez- Villagra M. (eds.). Book of Abstracts ofthe XXII Annual Meeting ofthe European Association of Vertebrate Palaeontologists, 30 June–5 July 2025, Krakow, Poland. Palaeovertebrata, p. 133–134.
-          </li><li>
+          <li> A. Buccella, E. Puertolas-Pascual, F. Fanti, M. Moreno-Azanza, ”Whose child is this? Juvenile features on an isolated crocodylomorph dentary from the Early Cretaceous of Galve, Spain” in Georgalis G. L., Sulej T., Belvedere M. Sanchez- Villagra M. (eds.). Book of Abstracts ofthe XXII Annual Meeting ofthe European Association of Vertebrate Palaeontologists, 30 June–5 July 2025, Krakow, Poland. Palaeovertebrata, p. 133–134.          </li>
+          <li>
  A. Buccella, E. Puertolas-Pascual, M. Moreno-Azanza, F. Fanti ”An unexpected Crocodylomorph from the Early Cretaceous of Galve, Spain? New perspectives on an isolated dentary from Cuesta Corrales 2” in E. Vlachos, V. D. Crespo, M. Rıos Ibanez, A. Gamonal, E. Jimenez Hidalgo, R. Guerrero-Arenas, F. A. M. Arnal, A. Allende Mosquera, and J. Gonzalez-Dionis (eds)  Book of Abstracts of the 5th Palaeontological Virtual Congress, March 2025, p.239.</li>
           <li> A. Buccella, E. Puertolas-Pascual, M. Moreno-Azanza, ”An unusual archosaur dentary from the Lower Cretaceous of Teruel, Spain” in G. Bianucci, M. Merella A. Collareta Book of Abstracts of Paleodays 2024 - XXIV edition of the ”Giornate di Paleontologia”, 5-7 June 2024, Italy, p.40.</li>
         </ul>
       </td>
-      <td></td>
     </tr>
-   <tr><td colspan="2"><b>Educazione</b></td></tr>
-    <tr>
+   <tr><td colspan="2"><b>Educazione</b></td>
+   </tr>
+   <tr>
       <td width="50%" colspan="2">
         <ul>
           <li><b>BIODIVERSITA ED EVOLUZIONE - Laurea magistrale 2022 - 2025 </b> - Universita di Bologna, Italia 
@@ -51,20 +52,27 @@
         </ul>
       </td>
     </tr>
-    <tr><td><b>Skillset</b></td></tr>
+    <tr><td><b>Skillset</b></td>
+    <td>Awards</td>
+    </tr>
     <tr>
       <td width="50%">
         <ul>
-          <li><a href="./Pages/education.md">Skillset</a></li>
-          <li><a href="./Pages/experience.md">Experience</a></li>
-          <li><a href="./Pages/projects.md">Projects</a></li>
-          <li><a href="./Pages/qualifications.md">Skills & Qualifications</a></li>
-          <li><a href="./Pages/extracurriculars.md">Honors & Extracurriculars</a></li>
           <li>. . .</li>
         </ul>
       </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Experiences and projects</td>
+      <td>Extracurriculars</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
 
+[English version](CVen.md)
 [Home](README.md)
